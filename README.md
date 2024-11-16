@@ -1,2 +1,2 @@
-Too many issues unknown solving\n
-Too much of an amateour 
+- Too many issues unknown solving
+- Too much of an amateour 
